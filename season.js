@@ -13,6 +13,7 @@ if ((month === 12 && day >= 21) || (month === 1) || (month === 2 && day >= 20)) 
 } else {
     season = 'invlid value'
 }
-console.log(season);
+alert(season)
+
 
 
